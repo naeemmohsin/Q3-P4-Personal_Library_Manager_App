@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Namal",
+        "author": "Nimra Ahmed",
+        "year": 2014,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Halim",
+        "author": "Nimra Ahmed",
+        "year": 2017,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Paras",
+        "author": "Nimra Ahmed",
+        "year": 2013,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Jannat Kay Pattay",
+        "author": "Nimra Ahmed",
+        "year": 2013,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Mus'haf",
+        "author": "Nimra Ahmed",
+        "year": 2011,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Sans Sakin Thi",
+        "author": "Nimra Ahmed",
+        "year": 2008,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "Pir-e-Kamil",
+        "author": "Umera Ahmed",
+        "year": 2004,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Aabe Hayat",
+        "author": "Umera Ahmed",
+        "year": 2005,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Shehr-e-Zaat",
+        "author": "Umera Ahmed",
+        "year": 2002,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "Aab-e-Gum",
+        "author": "Mushtaq Ahmad Yusufi",
+        "year": 2018,
+        "genre": "Non Fiction",
+        "read": false
+    },
+    {
+        "title": "Shahab Nama",
+        "author": "Qudratullah Shahab",
+        "year": 2013,
+        "genre": "Non Fiction",
+        "read": false
+    },
+    {
+        "title": "Talash",
+        "author": "Mumtaz Mufti",
+        "year": 1996,
+        "genre": "Non Fiction",
+        "read": false
+    },
+    {
+        "title": "Khushboo",
+        "author": "Parveen Shakir",
+        "year": 1976,
+        "genre": "Poetry",
+        "read": true
+    },
+    {
+        "title": "Poems-By-Faiz",
+        "author": "Faiz Ahmed Faiz",
+        "year": 1971,
+        "genre": "Poetry",
+        "read": false
+    },
+    {
+        "title": "Shab-e-Rafta",
+        "author": "Majeed Ahmed",
+        "year": 1958,
+        "genre": "Poetry",
+        "read": false
+    }
+]
